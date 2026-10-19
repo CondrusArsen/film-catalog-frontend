@@ -6,7 +6,7 @@ It started as a simple learning project and was improved into a more polished Va
 
 ## Live Demo
 
-[Open the site on GitHub Pages](https://condrusarsen.github.io/mini-kinopoisk/)
+The previous GitHub Pages address currently returns 404 (checked 19 October 2026). Use the local launch instructions below and the screenshots to review this version.
 
 ## Screenshots
 
