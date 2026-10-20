@@ -4,10 +4,6 @@ Mini Movie Journal is a small personal catalog of movies and TV series I have wa
 
 It started as a simple learning project and was improved into a more polished Vanilla JavaScript app without adding a heavy framework.
 
-## Live Demo
-
-The previous GitHub Pages address currently returns 404 (checked 19 October 2026). Use the local launch instructions below and the screenshots to review this version.
-
 ## Screenshots
 
 ### Home
@@ -99,11 +95,10 @@ http://localhost:4173
 - Add a favorites or "watch again" marker
 - Add more titles and richer personal notes
 - Add poster image optimization
-- Add screenshots to the README
 - Add small automated checks for broken data and missing images
 
 ## Author
 
-**Arseniy Atrokhov**
+**Arseni Atrokhov**
 
-An independent frontend learning project improved with assistant-guided iteration.
+An independent frontend learning project.
